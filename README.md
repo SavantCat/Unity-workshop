@@ -26,9 +26,9 @@
 ***
 
 ##第四回：ライティング応用と物理演算
-**開催予定：6月28日**
+**開催予定：6月29日**
 
-[準備中]()
+[資料](https://github.com/SavantCat/Unity-workshop/raw/master/%E8%B3%87%E6%96%99/unity%E7%AC%AC%E5%9B%9B%E5%9B%9E.pdf)
 
 ***
 
